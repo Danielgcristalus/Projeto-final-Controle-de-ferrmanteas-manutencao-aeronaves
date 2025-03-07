@@ -1,8 +1,5 @@
 # Projeto-final-Controle-de-ferrmanteas-manutencao-aeronaves
 Este projeto é um sistema de controle de ferramentas utilizado na manutenção de aeronaves. Ele foi desenvolvido com o objetivo de automatizar e organizar o processo de empréstimo e devolução de ferramentas, garantindo mais eficiência e segurança no trabalho.
-# Sistema de Controle de Ferramentas para Manutenção de Aeronaves
-
-Este projeto é um sistema de controle de ferramentas utilizado na manutenção de aeronaves. Ele foi desenvolvido com o objetivo de automatizar e organizar o processo de empréstimo e devolução de ferramentas, garantindo mais eficiência e segurança no trabalho.
 
 ## Funcionalidades
 - Cadastro de ferramentas e funcionários.
